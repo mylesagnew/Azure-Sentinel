@@ -7,13 +7,13 @@
     "doc": "docs"
   },
   "dependencies": {
-    "@azure/avocado": "^0.10.0",
+    "@azure/avocado": "^0.8.4",
     "@types/js-yaml": "^3.12.2",
     "@types/mocha": "^7.0.2",
     "jsonschema": "^1.2.6",
-    "mocha": "^10.6.0",
+    "mocha": "^10.3.0",
     "prettier": "^1.19.1",
-    "simple-git": "3.5.0",
+    "simple-git": "3.15.0",
     "ts-node": "^8.6.2",
     "typescript": "^3.8.3",
     "xmlhttprequest": "^1.8.0"
